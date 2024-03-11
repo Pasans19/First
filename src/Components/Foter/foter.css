@@ -1,0 +1,44 @@
+/* footer.css */
+
+.footer {
+    background-color: #333;
+    color: #fff; 
+    padding: 50px 0; 
+    margin: auto;
+  }
+  
+  .container {
+    width: 80%; 
+    margin: 0 auto; 
+  }
+  
+  .col-md-6 {
+    width: 50%; /* Make each column half the width of the container */
+    float: left; /* Float the columns */
+  }
+  
+  ul.list-unstyled {
+    list-style: none; /* Remove default list styles */
+    padding-left: 0; /* Remove default padding */
+  }
+  
+  .social-media a {
+    color: #fff; /* Set social media link color */
+    margin-right: 10px; /* Add spacing between social media icons */
+  }
+  
+  .social-media a:hover {
+    color: #ccc; /* Change color on hover */
+  }
+  
+  .text-center {
+    text-align: center; /* Align text to center */
+  }
+  /* footer.css */
+
+/* Add a class to the second column to move it to the right */
+.col-md-6 {
+    float: right; /* Float the column to the right */
+  }
+  
+  

@@ -1,0 +1,31 @@
+.c-item{
+    height: 480px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+}
+/* Example CSS file */
+
+/* Set font size in pixels */
+.text {
+    font-size: 16px;
+}
+
+/* Set font size in ems */
+.text-em {
+    font-size: 1.2em;
+}
+
+/* Set font size in rems */
+.text-rem {
+    font-size: 1.2rem;
+}
+
+/* Set font size in percentages */
+.text-percent {
+    font-size: 120%;
+}
+.carousel-caption {
+    font-size: 16px; /* Adjust the size as needed */
+}
